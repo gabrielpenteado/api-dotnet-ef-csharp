@@ -1,0 +1,6 @@
+@api_dotnet_ef_csharp_HostAddress = http://localhost:5245
+
+GET {{api_dotnet_ef_csharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
